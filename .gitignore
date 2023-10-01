@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FluentUIASPNet/.vs/FluentUIASPNet/FileContentIndex/5bdd7714-3461-44ab-997c-2eb4ff32b8d8.vsidx
+/FluentUIASPNet/.vs/FluentUIASPNet/FileContentIndex/8eed6a42-03a9-4fd9-9b98-270dce1cf61f.vsidx
+/FluentUIASPNet/.vs/FluentUIASPNet/v17/.suo
+/FluentUIASPNet/FluentUIASPNet/obj/Debug
+/FluentUIASPNet/packages
+/FluentUIASPNet/FluentUIASPNet/FluentUIASPNet.csproj.user
